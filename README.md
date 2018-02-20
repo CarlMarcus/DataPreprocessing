@@ -1,2 +1,2 @@
 # DataProcess
-some notes
+## Numpy Notes ——> https://github.com/CarlMarcus/DataProcess/blob/master/Numpy.ipynb
